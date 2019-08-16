@@ -1,0 +1,21 @@
+
+/* selected tag{
+  property: value;
+} */
+
+/* FOR COMMENTING USE ctr + /  */
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(255,97,5);
+}
+
+p{
+  color:#0895a8;
+}
+
+h4{
+  color: rgba(255,97,5,.3);
+}
