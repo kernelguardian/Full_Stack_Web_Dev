@@ -1,0 +1,24 @@
+/* h1{
+  font-family:"Arial";
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 1em;
+}
+
+#two{
+  font-size: 2em;
+} */
+
+*{
+  font-family: 'Titillium Web', sans-serif;
+}
+/* 1em=16px */
+/* 2em=32px */
+/* *{
+  font-family: Chivo;
+} */
