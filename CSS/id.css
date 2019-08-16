@@ -1,0 +1,31 @@
+.firstDiv{
+  color:blue;
+}
+
+div{
+  color:red;
+}
+
+#singledout{
+  color:green;
+  text-decoration: underline;
+}
+
+
+/* *{
+  color:black;
+} */
+
+
+h3 + ul{
+  border: 4px double purple;
+}
+
+li a{
+  color:red;
+}
+
+li a[href="https://www.pieriandata.com"]{
+  color: orange;
+  border: 2px solid red;
+}
