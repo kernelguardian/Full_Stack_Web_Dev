@@ -6,6 +6,10 @@
   margin: auto;
   color: #264653;
 }
+
+h1{
+  font-family: 'Indie Flower', cursive;
+}
 .holder{
   margin: auto;
   text-align: center;
@@ -24,7 +28,7 @@ body{
 .credit{
   position: absolute;
   bottom: 5px;
-  left: 5px;  
+  left: 5px;
 }
 
 .col1{
