@@ -18,6 +18,6 @@ This repo might break by the time you use it, //:(
 ## Contributing
 I would like to keep everything intact as is. If you find any issues please open an issue firts
 
-##Credits
+## Credits
 
 Visit --> https://www.makeareadme.com/ for making awesome readme.md
